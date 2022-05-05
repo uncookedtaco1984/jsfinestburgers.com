@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>J's Finest Burger Home</title>
+<meta charset="utf-8">
+<link rel="stylesheet" href="index.css">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+<div id="wrapper">
+<header>
+<img src="cover.jpg" alt="cover" style="width:1203px;height:200px;">
+</header>
+<nav>
+  <ul>
+  <li><a href="index.html">Home</a></li>
+  <li><a href="contact.html">Contact</a></li> 
+  <li><a href="about.html">About</a></li> 
+  <li><a href="menu.html">Menu</a></li>
+  <li><a href="music.html">Music</a></li>
+  <li><a href="forhire.html">For Hire</a></li>
+  </ul>
+</nav>
+<main>
+<h2>J's Finest Burger Home Page</h2>
+<p> Welcome to J's Finest Burgers! this website belongs to this resturant where we sell food thats good enough for you
+to eat! Feel  free to browse here and if you want a job and work for us, dont be afraid to go to the
+"For Hire" part of the website, put your infomation in and you'll be contacted soon.</p>
+<h2> Update typed on April 23rd, 2030: </h2>
+<p> Update: J's Finest Burger has grown exponentially, we have gotten new and more people that seem even more interested in our offers of jobs and some sponsorship opportunity! Contact me
+at @j'sfinestburgersbossemail.com or at 444-888-7777! Sometimes I may not answer on time but I'll try my best. To those that wants to sponsor our company, feel free to do so.
+We can work together on making both of our businesses work and perhaps we can find a way to get people to tune into both of our products. On behalf of J's Finest Burgers, I look forward
+to get this up and running! Thank you for tuning into our update and have an amazing day- J's Finest Burger Boss</p>
+<h2> Extra Infomation:</h2> 
+<p> To know MORE about our website, go to the ABOUT tab, you can get a overlook on what we've accomplished, a sketch of the resturant and overall all good things that's been done.
+If you're interested in applying, go to contact tab. That's all for now. </p>
+&nbsp;
+<p> Note: This website is enitely fictional. It's for a finals project for college, dont take this seriously, its just for show. Enjoy the content on here!</p>
+<ul>
+</form>
+</main>
+<footer>
+Copyright &copy; 2022 J's Finest Burger Contacts<br>
+<a href="mailto:yourfirstname@yourlastname.com">@j'sfinestburgersemail.com</a>
+</footer>
+</div>
+</body>
+</html>
